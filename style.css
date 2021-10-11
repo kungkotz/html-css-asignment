@@ -1,0 +1,14 @@
+.page-break {
+  background-color: rgb(211, 211, 211);
+}
+
+.hero-image {
+  background-image: url("images/welcome-img.jpg");
+  background-size: cover;
+}
+
+.hero-text {
+  text-align: center;
+
+  color: black;
+}
