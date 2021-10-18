@@ -1,19 +1,17 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 .os-articles h2 {
   font-style: bold;
 }
 .background-font {
-  background-color: #ADEFD1FF ;
-  width: 100%vw; 
-  
+  background-color: #adefd1ff;
+  width: 100%vw;
 }
 
 .main-font {
-    background-color: #EDFF00FF
+  background-color: #edff00ff;
 }
-
 
 .hero-image {
   background-image: url("images/welcome-img.jpg");
@@ -25,11 +23,7 @@ body {
   color: black;
 }
 
-  
-
-
-
-.linux-articles{
+.linux-articles {
   font-style: bold;
 }
 
@@ -37,7 +31,5 @@ body {
   .cover {
     height: 100%;
     object-fit: cover;
-  } 
+  }
 }
-
-
